@@ -1,3 +1,7 @@
+## Live Website Url : (https://dashboard-electric.vercel.app/)
+
+Also added sorting ,filtering, pagination in table as well as there is hover featuring given in both bar and pie chart that gives you information related to data.
+
 # MapUp - Analytics Dashboard Assessment
 
 ## Overview
